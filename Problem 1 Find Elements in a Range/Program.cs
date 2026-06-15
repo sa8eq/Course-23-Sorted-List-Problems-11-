@@ -4,12 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Problem_1_Find_Elements_in_a_Range
+
+internal class Program
 {
-    internal class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
+        SortedSet<int> nums = new SortedSet<int>(new[] { 1, 2, 3, 4, 5 });
+        SortedSet<int> view = nums.GetViewBetween(2,4);
+        foreach (int i in view)
         {
+            Console.WriteLine(i);
         }
     }
 }
+

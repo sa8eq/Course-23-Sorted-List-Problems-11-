@@ -1,0 +1,7 @@
+C:\Users\sadeq\Desktop\Road Map\Course 23\Sorted List Problems (11)\Problem 6 Count Elements Greater Than a Value\bin\Debug\Problem 6 Count Elements Greater Than a Value.exe.config
+C:\Users\sadeq\Desktop\Road Map\Course 23\Sorted List Problems (11)\Problem 6 Count Elements Greater Than a Value\bin\Debug\Problem 6 Count Elements Greater Than a Value.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Sorted List Problems (11)\Problem 6 Count Elements Greater Than a Value\bin\Debug\Problem 6 Count Elements Greater Than a Value.pdb
+C:\Users\sadeq\Desktop\Road Map\Course 23\Sorted List Problems (11)\Problem 6 Count Elements Greater Than a Value\obj\Debug\Problem 6 Count Elements Greater Than a Value.csproj.AssemblyReference.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Sorted List Problems (11)\Problem 6 Count Elements Greater Than a Value\obj\Debug\Problem 6 Count Elements Greater Than a Value.csproj.CoreCompileInputs.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Sorted List Problems (11)\Problem 6 Count Elements Greater Than a Value\obj\Debug\Problem 6 Count Elements Greater Than a Value.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Sorted List Problems (11)\Problem 6 Count Elements Greater Than a Value\obj\Debug\Problem 6 Count Elements Greater Than a Value.pdb

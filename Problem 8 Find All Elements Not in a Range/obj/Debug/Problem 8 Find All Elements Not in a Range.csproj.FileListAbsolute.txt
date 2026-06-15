@@ -1,0 +1,7 @@
+C:\Users\sadeq\Desktop\Road Map\Course 23\Sorted List Problems (11)\Problem 8 Find All Elements Not in a Range\bin\Debug\Problem 8 Find All Elements Not in a Range.exe.config
+C:\Users\sadeq\Desktop\Road Map\Course 23\Sorted List Problems (11)\Problem 8 Find All Elements Not in a Range\bin\Debug\Problem 8 Find All Elements Not in a Range.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Sorted List Problems (11)\Problem 8 Find All Elements Not in a Range\bin\Debug\Problem 8 Find All Elements Not in a Range.pdb
+C:\Users\sadeq\Desktop\Road Map\Course 23\Sorted List Problems (11)\Problem 8 Find All Elements Not in a Range\obj\Debug\Problem 8 Find All Elements Not in a Range.csproj.AssemblyReference.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Sorted List Problems (11)\Problem 8 Find All Elements Not in a Range\obj\Debug\Problem 8 Find All Elements Not in a Range.csproj.CoreCompileInputs.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Sorted List Problems (11)\Problem 8 Find All Elements Not in a Range\obj\Debug\Problem 8 Find All Elements Not in a Range.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Sorted List Problems (11)\Problem 8 Find All Elements Not in a Range\obj\Debug\Problem 8 Find All Elements Not in a Range.pdb
